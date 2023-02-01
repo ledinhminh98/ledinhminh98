@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Minh</h1>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
 
-- 🔭 I’m currently working on React and Wordpress development
+- 🔭 I'm currently working on React and WordPress development.
 
-- 🌱 I’m currently learning Blender and Three.Js
+- 🌱 I'm currently learning Blender and Three.js.
 
-- 💬 Ask me about anything tech related, I am happy to help
+- 💬 Ask me about anything tech-related; I'm happy to help.
 
-- ⚡ Fun fact:  I love to take pictures of nature and architecture 📸
+- ⚡ Fun fact: I love taking pictures of nature and architecture 📸.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
